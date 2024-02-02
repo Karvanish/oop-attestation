@@ -17,7 +17,7 @@
 
 1. Клонируйте репозиторий:
 ```
-git clone https://github.com/Karvanish/oop-attestation
+git clone https://github.com/Karvanish/oop-attestation/tree/main
 ```
 2. Перейдите в каталог проекта:
 ```
